@@ -1,0 +1,4 @@
+*.pdf
+*.pyc
+*.pkl
+.DS_Store
